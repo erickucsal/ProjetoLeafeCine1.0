@@ -1,0 +1,9 @@
+cat <<EOF > .gitignore
+/target/
+.settings/
+.classpath
+.project
+.factorypath
+*.class
+bin/
+EOF
